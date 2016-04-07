@@ -1,0 +1,3 @@
+[submodule "summa_submodules"]
+	path = summa_submodules
+	url = https://git.ucar.edu/summa_submodules.git
