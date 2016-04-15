@@ -1,3 +1,3 @@
 [submodule "summa_submodules"]
 	path = summa_submodules
-	url = https://git.ucar.edu/summa_submodules.git
+	url = https://proxy.git.ucar.edu/summa_submodules.git
